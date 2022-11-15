@@ -1,1 +1,5 @@
-<h3> Sample file for upload test </h3>
+Sprint 4 includes:
+
+Registering for IBM Cloud
+
+Deploying the Deep learning model on IBM Watson Studio
